@@ -3,11 +3,5 @@
   "name": "happy-birthday-celebration",
   "version": "1.0.0",
   "description": "An interactive birthday website. Open a gift box to reveal a pixel cake, click the candle to blow it out, and enjoy a confetti celebration with a 'Happy Birthday' message.",
-  "private": true,
-  "scripts": {
-    "deploy": "wrangler pages deploy ."
-  },
-  "devDependencies": {
-    "wrangler": "4.63.0"
-  }
+  "private": true
 }
